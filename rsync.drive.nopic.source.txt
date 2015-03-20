@@ -1,4 +1,4 @@
-rsync 3.0.7
+rsync 3.0.7 for Android
 non-PIC binary, doesn't work on Android Jelly Bean
 
 # Fri Mar 20 15:48:20 CET 2015

@@ -1,4 +1,4 @@
-rsync 3.1.1
+rsync 3.1.1 for Android
 
 # Fri Mar 20 15:47:15 CET 2015
 adb pull /data/data/eu.kowalczuk.rsync4android/files/rsync
