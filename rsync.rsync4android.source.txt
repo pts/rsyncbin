@@ -1,0 +1,6 @@
+rsync 3.1.1
+
+# Fri Mar 20 15:47:15 CET 2015
+adb pull /data/data/eu.kowalczuk.rsync4android/files/rsync
+
+Compiled from: https://github.com/mkowalczuk/android_external_rsync

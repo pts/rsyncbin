@@ -1,0 +1,7 @@
+rsync 3.0.7
+non-PIC binary, doesn't work on Android Jelly Bean
+
+# Fri Mar 20 15:48:20 CET 2015
+wget -O rsync.drive.nopic https://sites.google.com/a/kowalczuk.eu/android/rsync
+
+Compiled from: https://github.com/mkowalczuk/android_external_rsync
